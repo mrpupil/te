@@ -9,7 +9,7 @@ loginButton.addEventListener("click", (e) => {
 
     if (username === "user" && password === "web_dev") {
         alert("You have successfully logged in.");
-        location.reload();
+        location.reload(https://raw.githubusercontent.com/mrpupil/te/master/ok);
     } else {
         loginErrorMsg.style.opacity = 1;
     }
